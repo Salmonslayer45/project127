@@ -1,0 +1,23 @@
+ .Score
+ {
+    font-size: medium;
+    margin: left 50px;
+ }
+
+ body
+ {
+    background-color: cadetblue;
+ }
+
+ .Timer
+ {
+    float: right;
+    font-size: medium;
+    margin: right 50px;
+ }
+
+ .drawn
+ {
+    color: rgb(0, 0, 255);
+ }
+
